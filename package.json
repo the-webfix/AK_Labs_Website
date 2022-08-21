@@ -1,0 +1,29 @@
+{
+  "name": "ak_labs_website",
+  "version": "1.0.0",
+  "description": "Building website for AK labs in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-webfix/AK_Labs_Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-webfix/AK_Labs_Website/issues"
+  },
+  "homepage": "https://github.com/the-webfix/AK_Labs_Website#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemailer": "^6.7.8"
+  },
+  "devDependencies": {
+    "kill-port": "^2.0.1"
+  }
+}
